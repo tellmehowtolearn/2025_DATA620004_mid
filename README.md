@@ -7,7 +7,7 @@
 ## 运行步骤
 
 ### 1. 下载数据集以及预处理
-预先下载好数据集[Caltech101]{https://data.caltech.edu/records/mzrjq-6wc02}并解压到当前目录，删除目录`101_ObjectCategories`下的`BACKGROUND_Google`文件夹。然后运行`dataset_split.py`脚本进行数据集划分，划分为训练集和验证集。该脚本会在当前目录下创建一个`caltech101_split`文件夹，里面包含了训练集和验证集以及测试集的三个子文件夹。
+预先下载好数据集[Caltech101](https://data.caltech.edu/records/mzrjq-6wc02)并解压到当前目录，删除目录`101_ObjectCategories`下的`BACKGROUND_Google`文件夹。然后运行`dataset_split.py`脚本进行数据集划分，划分为训练集和验证集。该脚本会在当前目录下创建一个`caltech101_split`文件夹，里面包含了训练集和验证集以及测试集的三个子文件夹。
 
 ### 2. 超参选择
 通过运行`param_grid.py`脚本来选择超参数。该脚本会针对每种模型类型自动生成一个包含超参数组合的 CSV 文件，从而得到最优的超参数组合。对于预训练模型和随机初始化模型，需要手动修改参数`init_type`。
