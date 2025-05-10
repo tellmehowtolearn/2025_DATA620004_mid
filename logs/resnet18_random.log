@@ -1,0 +1,375 @@
+2025-05-09 13:27:15,274 | INFO: Preparing data...
+2025-05-09 13:27:15,444 | INFO: Loading model...
+2025-05-09 13:27:16,704 | INFO: Training resnet18 with random initialization
+2025-05-09 13:27:16,704 | INFO: Batch size: 32
+2025-05-09 13:27:16,704 | INFO: Learning rate for fc: 0.001
+2025-05-09 13:27:16,704 | INFO: Learning rate for backbone: 0.0001
+2025-05-09 13:27:16,704 | INFO: Epoch 1/200
+2025-05-09 13:28:45,322 | INFO: Train loss: 4.1571
+2025-05-09 13:28:55,892 | INFO: Validation accuracy: 0.1706
+2025-05-09 13:28:56,012 | INFO: Saved best model with accuracy: 0.1706
+2025-05-09 13:28:56,013 | INFO: Epoch 2/200
+2025-05-09 13:30:27,014 | INFO: Train loss: 3.9033
+2025-05-09 13:30:38,113 | INFO: Validation accuracy: 0.2060
+2025-05-09 13:30:38,200 | INFO: Saved best model with accuracy: 0.2060
+2025-05-09 13:30:38,200 | INFO: Epoch 3/200
+2025-05-09 13:32:09,405 | INFO: Train loss: 3.7401
+2025-05-09 13:32:18,471 | INFO: Validation accuracy: 0.2260
+2025-05-09 13:32:18,558 | INFO: Saved best model with accuracy: 0.2260
+2025-05-09 13:32:18,558 | INFO: Epoch 4/200
+2025-05-09 13:33:50,651 | INFO: Train loss: 3.5962
+2025-05-09 13:34:01,134 | INFO: Validation accuracy: 0.2613
+2025-05-09 13:34:01,212 | INFO: Saved best model with accuracy: 0.2613
+2025-05-09 13:34:01,212 | INFO: Epoch 5/200
+2025-05-09 13:35:26,447 | INFO: Train loss: 3.4750
+2025-05-09 13:35:37,203 | INFO: Validation accuracy: 0.2498
+2025-05-09 13:35:37,203 | INFO: Epoch 6/200
+2025-05-09 13:37:02,081 | INFO: Train loss: 3.3741
+2025-05-09 13:37:12,571 | INFO: Validation accuracy: 0.2882
+2025-05-09 13:37:12,651 | INFO: Saved best model with accuracy: 0.2882
+2025-05-09 13:37:12,651 | INFO: Epoch 7/200
+2025-05-09 13:38:36,053 | INFO: Train loss: 3.2850
+2025-05-09 13:38:46,747 | INFO: Validation accuracy: 0.2975
+2025-05-09 13:38:46,836 | INFO: Saved best model with accuracy: 0.2975
+2025-05-09 13:38:46,836 | INFO: Epoch 8/200
+2025-05-09 13:40:14,134 | INFO: Train loss: 3.1986
+2025-05-09 13:40:24,777 | INFO: Validation accuracy: 0.3167
+2025-05-09 13:40:24,873 | INFO: Saved best model with accuracy: 0.3167
+2025-05-09 13:40:24,873 | INFO: Epoch 9/200
+2025-05-09 13:41:47,985 | INFO: Train loss: 3.1439
+2025-05-09 13:41:58,004 | INFO: Validation accuracy: 0.3151
+2025-05-09 13:41:58,004 | INFO: Epoch 10/200
+2025-05-09 13:43:23,458 | INFO: Train loss: 3.0817
+2025-05-09 13:43:34,258 | INFO: Validation accuracy: 0.3259
+2025-05-09 13:43:34,347 | INFO: Saved best model with accuracy: 0.3259
+2025-05-09 13:43:34,347 | INFO: Epoch 11/200
+2025-05-09 13:45:00,439 | INFO: Train loss: 3.0282
+2025-05-09 13:45:10,442 | INFO: Validation accuracy: 0.3321
+2025-05-09 13:45:10,528 | INFO: Saved best model with accuracy: 0.3321
+2025-05-09 13:45:10,528 | INFO: Epoch 12/200
+2025-05-09 13:46:35,849 | INFO: Train loss: 2.9763
+2025-05-09 13:46:47,310 | INFO: Validation accuracy: 0.3444
+2025-05-09 13:46:47,392 | INFO: Saved best model with accuracy: 0.3444
+2025-05-09 13:46:47,393 | INFO: Epoch 13/200
+2025-05-09 13:48:11,277 | INFO: Train loss: 2.9196
+2025-05-09 13:48:22,171 | INFO: Validation accuracy: 0.3467
+2025-05-09 13:48:22,255 | INFO: Saved best model with accuracy: 0.3467
+2025-05-09 13:48:22,255 | INFO: Epoch 14/200
+2025-05-09 13:49:48,055 | INFO: Train loss: 2.8692
+2025-05-09 13:49:59,144 | INFO: Validation accuracy: 0.3536
+2025-05-09 13:49:59,236 | INFO: Saved best model with accuracy: 0.3536
+2025-05-09 13:49:59,236 | INFO: Epoch 15/200
+2025-05-09 13:51:24,028 | INFO: Train loss: 2.8268
+2025-05-09 13:51:34,323 | INFO: Validation accuracy: 0.3613
+2025-05-09 13:51:34,404 | INFO: Saved best model with accuracy: 0.3613
+2025-05-09 13:51:34,404 | INFO: Epoch 16/200
+2025-05-09 13:52:57,735 | INFO: Train loss: 2.7678
+2025-05-09 13:53:08,669 | INFO: Validation accuracy: 0.3736
+2025-05-09 13:53:08,768 | INFO: Saved best model with accuracy: 0.3736
+2025-05-09 13:53:08,768 | INFO: Epoch 17/200
+2025-05-09 13:54:32,617 | INFO: Train loss: 2.7261
+2025-05-09 13:54:42,910 | INFO: Validation accuracy: 0.3697
+2025-05-09 13:54:42,910 | INFO: Epoch 18/200
+2025-05-09 13:56:06,051 | INFO: Train loss: 2.6879
+2025-05-09 13:56:16,334 | INFO: Validation accuracy: 0.3866
+2025-05-09 13:56:16,411 | INFO: Saved best model with accuracy: 0.3866
+2025-05-09 13:56:16,411 | INFO: Epoch 19/200
+2025-05-09 13:57:42,126 | INFO: Train loss: 2.6281
+2025-05-09 13:57:52,107 | INFO: Validation accuracy: 0.3874
+2025-05-09 13:57:52,183 | INFO: Saved best model with accuracy: 0.3874
+2025-05-09 13:57:52,183 | INFO: Epoch 20/200
+2025-05-09 13:59:15,683 | INFO: Train loss: 2.5943
+2025-05-09 13:59:26,432 | INFO: Validation accuracy: 0.3951
+2025-05-09 13:59:26,517 | INFO: Saved best model with accuracy: 0.3951
+2025-05-09 13:59:26,517 | INFO: Epoch 21/200
+2025-05-09 14:00:53,723 | INFO: Train loss: 2.5369
+2025-05-09 14:01:04,363 | INFO: Validation accuracy: 0.4089
+2025-05-09 14:01:04,449 | INFO: Saved best model with accuracy: 0.4089
+2025-05-09 14:01:04,450 | INFO: Epoch 22/200
+2025-05-09 14:02:28,858 | INFO: Train loss: 2.5080
+2025-05-09 14:02:39,566 | INFO: Validation accuracy: 0.4097
+2025-05-09 14:02:39,655 | INFO: Saved best model with accuracy: 0.4097
+2025-05-09 14:02:39,656 | INFO: Epoch 23/200
+2025-05-09 14:04:04,139 | INFO: Train loss: 2.4659
+2025-05-09 14:04:14,695 | INFO: Validation accuracy: 0.4158
+2025-05-09 14:04:14,782 | INFO: Saved best model with accuracy: 0.4158
+2025-05-09 14:04:14,783 | INFO: Epoch 24/200
+2025-05-09 14:05:38,836 | INFO: Train loss: 2.4263
+2025-05-09 14:05:49,117 | INFO: Validation accuracy: 0.4097
+2025-05-09 14:05:49,117 | INFO: Epoch 25/200
+2025-05-09 14:07:15,027 | INFO: Train loss: 2.4021
+2025-05-09 14:07:25,232 | INFO: Validation accuracy: 0.4120
+2025-05-09 14:07:25,232 | INFO: Epoch 26/200
+2025-05-09 14:08:48,089 | INFO: Train loss: 2.3506
+2025-05-09 14:08:58,825 | INFO: Validation accuracy: 0.4366
+2025-05-09 14:08:58,910 | INFO: Saved best model with accuracy: 0.4366
+2025-05-09 14:08:58,910 | INFO: Epoch 27/200
+2025-05-09 14:10:23,706 | INFO: Train loss: 2.3163
+2025-05-09 14:10:33,622 | INFO: Validation accuracy: 0.4297
+2025-05-09 14:10:33,622 | INFO: Epoch 28/200
+2025-05-09 14:11:58,411 | INFO: Train loss: 2.2846
+2025-05-09 14:12:09,032 | INFO: Validation accuracy: 0.4327
+2025-05-09 14:12:09,032 | INFO: Epoch 29/200
+2025-05-09 14:13:32,691 | INFO: Train loss: 2.2477
+2025-05-09 14:13:44,163 | INFO: Validation accuracy: 0.4427
+2025-05-09 14:13:44,236 | INFO: Saved best model with accuracy: 0.4427
+2025-05-09 14:13:44,236 | INFO: Epoch 30/200
+2025-05-09 14:15:08,014 | INFO: Train loss: 2.2132
+2025-05-09 14:15:18,567 | INFO: Validation accuracy: 0.4427
+2025-05-09 14:15:18,568 | INFO: Epoch 31/200
+2025-05-09 14:16:42,966 | INFO: Train loss: 2.1875
+2025-05-09 14:16:53,538 | INFO: Validation accuracy: 0.4535
+2025-05-09 14:16:53,628 | INFO: Saved best model with accuracy: 0.4535
+2025-05-09 14:16:53,628 | INFO: Epoch 32/200
+2025-05-09 14:18:17,340 | INFO: Train loss: 2.1653
+2025-05-09 14:18:27,571 | INFO: Validation accuracy: 0.4504
+2025-05-09 14:18:27,571 | INFO: Epoch 33/200
+2025-05-09 14:19:51,702 | INFO: Train loss: 2.1362
+2025-05-09 14:20:01,606 | INFO: Validation accuracy: 0.4543
+2025-05-09 14:20:01,702 | INFO: Saved best model with accuracy: 0.4543
+2025-05-09 14:20:01,702 | INFO: Epoch 34/200
+2025-05-09 14:21:25,785 | INFO: Train loss: 2.1050
+2025-05-09 14:21:36,280 | INFO: Validation accuracy: 0.4696
+2025-05-09 14:21:36,364 | INFO: Saved best model with accuracy: 0.4696
+2025-05-09 14:21:36,364 | INFO: Epoch 35/200
+2025-05-09 14:23:00,158 | INFO: Train loss: 2.0761
+2025-05-09 14:23:09,210 | INFO: Validation accuracy: 0.4589
+2025-05-09 14:23:09,211 | INFO: Epoch 36/200
+2025-05-09 14:24:34,507 | INFO: Train loss: 2.0553
+2025-05-09 14:24:45,121 | INFO: Validation accuracy: 0.4696
+2025-05-09 14:24:45,121 | INFO: Epoch 37/200
+2025-05-09 14:26:08,357 | INFO: Train loss: 2.0150
+2025-05-09 14:26:18,895 | INFO: Validation accuracy: 0.4766
+2025-05-09 14:26:18,982 | INFO: Saved best model with accuracy: 0.4766
+2025-05-09 14:26:18,983 | INFO: Epoch 38/200
+2025-05-09 14:27:45,520 | INFO: Train loss: 1.9957
+2025-05-09 14:27:56,767 | INFO: Validation accuracy: 0.4581
+2025-05-09 14:27:56,767 | INFO: Epoch 39/200
+2025-05-09 14:29:21,942 | INFO: Train loss: 1.9740
+2025-05-09 14:29:32,242 | INFO: Validation accuracy: 0.4635
+2025-05-09 14:29:32,242 | INFO: Epoch 40/200
+2025-05-09 14:30:57,612 | INFO: Train loss: 1.9376
+2025-05-09 14:31:08,031 | INFO: Validation accuracy: 0.4781
+2025-05-09 14:31:08,117 | INFO: Saved best model with accuracy: 0.4781
+2025-05-09 14:31:08,117 | INFO: Epoch 41/200
+2025-05-09 14:32:31,155 | INFO: Train loss: 1.9069
+2025-05-09 14:32:41,420 | INFO: Validation accuracy: 0.4743
+2025-05-09 14:32:41,420 | INFO: Epoch 42/200
+2025-05-09 14:34:06,514 | INFO: Train loss: 1.9015
+2025-05-09 14:34:17,061 | INFO: Validation accuracy: 0.4827
+2025-05-09 14:34:17,163 | INFO: Saved best model with accuracy: 0.4827
+2025-05-09 14:34:17,163 | INFO: Epoch 43/200
+2025-05-09 14:35:43,718 | INFO: Train loss: 1.8609
+2025-05-09 14:35:54,027 | INFO: Validation accuracy: 0.4912
+2025-05-09 14:35:54,102 | INFO: Saved best model with accuracy: 0.4912
+2025-05-09 14:35:54,102 | INFO: Epoch 44/200
+2025-05-09 14:37:19,241 | INFO: Train loss: 1.8471
+2025-05-09 14:37:29,324 | INFO: Validation accuracy: 0.4958
+2025-05-09 14:37:29,408 | INFO: Saved best model with accuracy: 0.4958
+2025-05-09 14:37:29,408 | INFO: Epoch 45/200
+2025-05-09 14:38:53,337 | INFO: Train loss: 1.8160
+2025-05-09 14:39:03,371 | INFO: Validation accuracy: 0.4927
+2025-05-09 14:39:03,371 | INFO: Epoch 46/200
+2025-05-09 14:40:26,726 | INFO: Train loss: 1.7951
+2025-05-09 14:40:36,244 | INFO: Validation accuracy: 0.4881
+2025-05-09 14:40:36,244 | INFO: Epoch 47/200
+2025-05-09 14:42:00,011 | INFO: Train loss: 1.7737
+2025-05-09 14:42:09,399 | INFO: Validation accuracy: 0.5012
+2025-05-09 14:42:09,494 | INFO: Saved best model with accuracy: 0.5012
+2025-05-09 14:42:09,494 | INFO: Epoch 48/200
+2025-05-09 14:43:32,825 | INFO: Train loss: 1.7380
+2025-05-09 14:43:43,072 | INFO: Validation accuracy: 0.4996
+2025-05-09 14:43:43,073 | INFO: Epoch 49/200
+2025-05-09 14:45:09,132 | INFO: Train loss: 1.7289
+2025-05-09 14:45:19,645 | INFO: Validation accuracy: 0.4965
+2025-05-09 14:45:19,645 | INFO: Epoch 50/200
+2025-05-09 14:46:43,898 | INFO: Train loss: 1.7054
+2025-05-09 14:46:54,735 | INFO: Validation accuracy: 0.4996
+2025-05-09 14:46:54,735 | INFO: Epoch 51/200
+2025-05-09 14:48:19,344 | INFO: Train loss: 1.6831
+2025-05-09 14:48:29,756 | INFO: Validation accuracy: 0.5127
+2025-05-09 14:48:29,846 | INFO: Saved best model with accuracy: 0.5127
+2025-05-09 14:48:29,846 | INFO: Epoch 52/200
+2025-05-09 14:49:53,160 | INFO: Train loss: 1.6371
+2025-05-09 14:50:04,251 | INFO: Validation accuracy: 0.5111
+2025-05-09 14:50:04,251 | INFO: Epoch 53/200
+2025-05-09 14:51:31,042 | INFO: Train loss: 1.6405
+2025-05-09 14:51:42,068 | INFO: Validation accuracy: 0.5111
+2025-05-09 14:51:42,068 | INFO: Epoch 54/200
+2025-05-09 14:53:06,741 | INFO: Train loss: 1.6051
+2025-05-09 14:53:16,411 | INFO: Validation accuracy: 0.5081
+2025-05-09 14:53:16,411 | INFO: Epoch 55/200
+2025-05-09 14:54:42,986 | INFO: Train loss: 1.5762
+2025-05-09 14:54:53,787 | INFO: Validation accuracy: 0.5012
+2025-05-09 14:54:53,787 | INFO: Epoch 56/200
+2025-05-09 14:56:20,239 | INFO: Train loss: 1.5700
+2025-05-09 14:56:31,016 | INFO: Validation accuracy: 0.5204
+2025-05-09 14:56:31,103 | INFO: Saved best model with accuracy: 0.5204
+2025-05-09 14:56:31,103 | INFO: Epoch 57/200
+2025-05-09 14:57:56,731 | INFO: Train loss: 1.5364
+2025-05-09 14:58:06,828 | INFO: Validation accuracy: 0.5273
+2025-05-09 14:58:06,908 | INFO: Saved best model with accuracy: 0.5273
+2025-05-09 14:58:06,908 | INFO: Epoch 58/200
+2025-05-09 14:59:33,901 | INFO: Train loss: 1.5267
+2025-05-09 14:59:45,796 | INFO: Validation accuracy: 0.5135
+2025-05-09 14:59:45,796 | INFO: Epoch 59/200
+2025-05-09 15:01:10,454 | INFO: Train loss: 1.4939
+2025-05-09 15:01:20,277 | INFO: Validation accuracy: 0.5104
+2025-05-09 15:01:20,277 | INFO: Epoch 60/200
+2025-05-09 15:02:46,761 | INFO: Train loss: 1.4753
+2025-05-09 15:02:56,895 | INFO: Validation accuracy: 0.5150
+2025-05-09 15:02:56,895 | INFO: Epoch 61/200
+2025-05-09 15:04:21,746 | INFO: Train loss: 1.4500
+2025-05-09 15:04:31,713 | INFO: Validation accuracy: 0.5250
+2025-05-09 15:04:31,713 | INFO: Epoch 62/200
+2025-05-09 15:05:54,776 | INFO: Train loss: 1.4340
+2025-05-09 15:06:06,010 | INFO: Validation accuracy: 0.5334
+2025-05-09 15:06:06,102 | INFO: Saved best model with accuracy: 0.5334
+2025-05-09 15:06:06,102 | INFO: Epoch 63/200
+2025-05-09 15:07:32,556 | INFO: Train loss: 1.4078
+2025-05-09 15:07:42,944 | INFO: Validation accuracy: 0.5158
+2025-05-09 15:07:42,944 | INFO: Epoch 64/200
+2025-05-09 15:09:07,030 | INFO: Train loss: 1.3878
+2025-05-09 15:09:18,221 | INFO: Validation accuracy: 0.5380
+2025-05-09 15:09:18,298 | INFO: Saved best model with accuracy: 0.5380
+2025-05-09 15:09:18,299 | INFO: Epoch 65/200
+2025-05-09 15:10:43,495 | INFO: Train loss: 1.3733
+2025-05-09 15:10:54,095 | INFO: Validation accuracy: 0.5342
+2025-05-09 15:10:54,095 | INFO: Epoch 66/200
+2025-05-09 15:12:18,587 | INFO: Train loss: 1.3439
+2025-05-09 15:12:29,413 | INFO: Validation accuracy: 0.5411
+2025-05-09 15:12:29,505 | INFO: Saved best model with accuracy: 0.5411
+2025-05-09 15:12:29,507 | INFO: Epoch 67/200
+2025-05-09 15:13:55,964 | INFO: Train loss: 1.3311
+2025-05-09 15:14:06,946 | INFO: Validation accuracy: 0.5311
+2025-05-09 15:14:06,947 | INFO: Epoch 68/200
+2025-05-09 15:15:31,732 | INFO: Train loss: 1.3038
+2025-05-09 15:15:42,914 | INFO: Validation accuracy: 0.5334
+2025-05-09 15:15:42,914 | INFO: Epoch 69/200
+2025-05-09 15:17:08,436 | INFO: Train loss: 1.2942
+2025-05-09 15:17:19,286 | INFO: Validation accuracy: 0.5373
+2025-05-09 15:17:19,286 | INFO: Epoch 70/200
+2025-05-09 15:18:44,143 | INFO: Train loss: 1.2680
+2025-05-09 15:18:55,055 | INFO: Validation accuracy: 0.5419
+2025-05-09 15:18:55,128 | INFO: Saved best model with accuracy: 0.5419
+2025-05-09 15:18:55,128 | INFO: Epoch 71/200
+2025-05-09 15:20:19,742 | INFO: Train loss: 1.2448
+2025-05-09 15:20:29,989 | INFO: Validation accuracy: 0.5473
+2025-05-09 15:20:30,061 | INFO: Saved best model with accuracy: 0.5473
+2025-05-09 15:20:30,061 | INFO: Epoch 72/200
+2025-05-09 15:21:55,069 | INFO: Train loss: 1.2126
+2025-05-09 15:22:04,948 | INFO: Validation accuracy: 0.5465
+2025-05-09 15:22:04,948 | INFO: Epoch 73/200
+2025-05-09 15:23:28,000 | INFO: Train loss: 1.1930
+2025-05-09 15:23:38,362 | INFO: Validation accuracy: 0.5457
+2025-05-09 15:23:38,362 | INFO: Epoch 74/200
+2025-05-09 15:25:02,402 | INFO: Train loss: 1.1846
+2025-05-09 15:25:12,442 | INFO: Validation accuracy: 0.5488
+2025-05-09 15:25:12,530 | INFO: Saved best model with accuracy: 0.5488
+2025-05-09 15:25:12,530 | INFO: Epoch 75/200
+2025-05-09 15:26:35,303 | INFO: Train loss: 1.1495
+2025-05-09 15:26:45,461 | INFO: Validation accuracy: 0.5457
+2025-05-09 15:26:45,461 | INFO: Epoch 76/200
+2025-05-09 15:28:09,559 | INFO: Train loss: 1.1239
+2025-05-09 15:28:19,416 | INFO: Validation accuracy: 0.5573
+2025-05-09 15:28:19,495 | INFO: Saved best model with accuracy: 0.5573
+2025-05-09 15:28:19,496 | INFO: Epoch 77/200
+2025-05-09 15:29:45,087 | INFO: Train loss: 1.1104
+2025-05-09 15:29:54,997 | INFO: Validation accuracy: 0.5427
+2025-05-09 15:29:54,997 | INFO: Epoch 78/200
+2025-05-09 15:31:18,645 | INFO: Train loss: 1.1010
+2025-05-09 15:31:29,367 | INFO: Validation accuracy: 0.5465
+2025-05-09 15:31:29,367 | INFO: Epoch 79/200
+2025-05-09 15:32:55,168 | INFO: Train loss: 1.0772
+2025-05-09 15:33:04,388 | INFO: Validation accuracy: 0.5611
+2025-05-09 15:33:04,463 | INFO: Saved best model with accuracy: 0.5611
+2025-05-09 15:33:04,463 | INFO: Epoch 80/200
+2025-05-09 15:34:27,440 | INFO: Train loss: 1.0557
+2025-05-09 15:34:37,474 | INFO: Validation accuracy: 0.5565
+2025-05-09 15:34:37,474 | INFO: Epoch 81/200
+2025-05-09 15:35:59,696 | INFO: Train loss: 1.0322
+2025-05-09 15:36:09,554 | INFO: Validation accuracy: 0.5442
+2025-05-09 15:36:09,554 | INFO: Epoch 82/200
+2025-05-09 15:37:30,948 | INFO: Train loss: 1.0113
+2025-05-09 15:37:40,476 | INFO: Validation accuracy: 0.5565
+2025-05-09 15:37:40,476 | INFO: Epoch 83/200
+2025-05-09 15:39:01,531 | INFO: Train loss: 0.9954
+2025-05-09 15:39:11,400 | INFO: Validation accuracy: 0.5496
+2025-05-09 15:39:11,400 | INFO: Epoch 84/200
+2025-05-09 15:40:34,465 | INFO: Train loss: 0.9751
+2025-05-09 15:40:44,077 | INFO: Validation accuracy: 0.5557
+2025-05-09 15:40:44,077 | INFO: Epoch 85/200
+2025-05-09 15:42:07,709 | INFO: Train loss: 0.9533
+2025-05-09 15:42:17,825 | INFO: Validation accuracy: 0.5580
+2025-05-09 15:42:17,825 | INFO: Epoch 86/200
+2025-05-09 15:43:41,303 | INFO: Train loss: 0.9336
+2025-05-09 15:43:50,947 | INFO: Validation accuracy: 0.5611
+2025-05-09 15:43:50,947 | INFO: Epoch 87/200
+2025-05-09 15:45:12,907 | INFO: Train loss: 0.9064
+2025-05-09 15:45:22,357 | INFO: Validation accuracy: 0.5603
+2025-05-09 15:45:22,357 | INFO: Epoch 88/200
+2025-05-09 15:46:46,581 | INFO: Train loss: 0.8967
+2025-05-09 15:46:56,055 | INFO: Validation accuracy: 0.5665
+2025-05-09 15:46:56,142 | INFO: Saved best model with accuracy: 0.5665
+2025-05-09 15:46:56,143 | INFO: Epoch 89/200
+2025-05-09 15:48:18,854 | INFO: Train loss: 0.8821
+2025-05-09 15:48:29,196 | INFO: Validation accuracy: 0.5611
+2025-05-09 15:48:29,196 | INFO: Epoch 90/200
+2025-05-09 15:49:54,028 | INFO: Train loss: 0.8394
+2025-05-09 15:50:03,260 | INFO: Validation accuracy: 0.5619
+2025-05-09 15:50:03,260 | INFO: Epoch 91/200
+2025-05-09 15:51:26,717 | INFO: Train loss: 0.8314
+2025-05-09 15:51:36,985 | INFO: Validation accuracy: 0.5611
+2025-05-09 15:51:36,985 | INFO: Epoch 92/200
+2025-05-09 15:52:58,960 | INFO: Train loss: 0.8186
+2025-05-09 15:53:08,723 | INFO: Validation accuracy: 0.5650
+2025-05-09 15:53:08,723 | INFO: Epoch 93/200
+2025-05-09 15:54:32,114 | INFO: Train loss: 0.7970
+2025-05-09 15:54:42,759 | INFO: Validation accuracy: 0.5642
+2025-05-09 15:54:42,759 | INFO: Epoch 94/200
+2025-05-09 15:56:06,924 | INFO: Train loss: 0.7717
+2025-05-09 15:56:16,260 | INFO: Validation accuracy: 0.5642
+2025-05-09 15:56:16,260 | INFO: Epoch 95/200
+2025-05-09 15:57:39,458 | INFO: Train loss: 0.7658
+2025-05-09 15:57:49,261 | INFO: Validation accuracy: 0.5742
+2025-05-09 15:57:49,344 | INFO: Saved best model with accuracy: 0.5742
+2025-05-09 15:57:49,344 | INFO: Epoch 96/200
+2025-05-09 15:59:12,465 | INFO: Train loss: 0.7202
+2025-05-09 15:59:22,091 | INFO: Validation accuracy: 0.5588
+2025-05-09 15:59:22,091 | INFO: Epoch 97/200
+2025-05-09 16:00:45,839 | INFO: Train loss: 0.7177
+2025-05-09 16:00:56,526 | INFO: Validation accuracy: 0.5634
+2025-05-09 16:00:56,526 | INFO: Epoch 98/200
+2025-05-09 16:02:19,775 | INFO: Train loss: 0.6963
+2025-05-09 16:02:29,297 | INFO: Validation accuracy: 0.5680
+2025-05-09 16:02:29,297 | INFO: Epoch 99/200
+2025-05-09 16:03:52,511 | INFO: Train loss: 0.6786
+2025-05-09 16:04:02,234 | INFO: Validation accuracy: 0.5580
+2025-05-09 16:04:02,234 | INFO: Epoch 100/200
+2025-05-09 16:05:25,120 | INFO: Train loss: 0.6623
+2025-05-09 16:05:34,879 | INFO: Validation accuracy: 0.5665
+2025-05-09 16:05:34,879 | INFO: Epoch 101/200
+2025-05-09 16:06:57,905 | INFO: Train loss: 0.6472
+2025-05-09 16:07:07,531 | INFO: Validation accuracy: 0.5680
+2025-05-09 16:07:07,531 | INFO: Epoch 102/200
+2025-05-09 16:08:30,560 | INFO: Train loss: 0.6364
+2025-05-09 16:08:40,552 | INFO: Validation accuracy: 0.5680
+2025-05-09 16:08:40,552 | INFO: Epoch 103/200
+2025-05-09 16:10:04,321 | INFO: Train loss: 0.6002
+2025-05-09 16:10:14,522 | INFO: Validation accuracy: 0.5642
+2025-05-09 16:10:14,522 | INFO: Validation accuracy decreased (0.5680 -> 0.5642). Early stopping counter: 1/2
+2025-05-09 16:10:14,522 | INFO: Epoch 104/200
+2025-05-09 16:11:37,345 | INFO: Train loss: 0.5965
+2025-05-09 16:11:47,002 | INFO: Validation accuracy: 0.5703
+2025-05-09 16:11:47,002 | INFO: Epoch 105/200
+2025-05-09 16:13:10,364 | INFO: Train loss: 0.5853
+2025-05-09 16:13:20,066 | INFO: Validation accuracy: 0.5703
+2025-05-09 16:13:20,068 | INFO: Epoch 106/200
+2025-05-09 16:14:43,540 | INFO: Train loss: 0.5491
+2025-05-09 16:14:53,024 | INFO: Validation accuracy: 0.5688
+2025-05-09 16:14:53,024 | INFO: Validation accuracy decreased (0.5703 -> 0.5688). Early stopping counter: 1/2
+2025-05-09 16:14:53,024 | INFO: Epoch 107/200
+2025-05-09 16:16:16,423 | INFO: Train loss: 0.5386
+2025-05-09 16:16:26,613 | INFO: Validation accuracy: 0.5588
+2025-05-09 16:16:26,613 | INFO: Validation accuracy decreased (0.5688 -> 0.5588). Early stopping counter: 2/2
+2025-05-09 16:16:26,613 | INFO: Early stopping triggered after 107 epochs
